@@ -1,5 +1,5 @@
 # Ejercicios Introduccion a la programacion
-Cada ejercicio esta en su carpeta con una captura de su inciso, para descargar dale donde dice zip
+Cada ejercicio esta en su carpeta con una captura de su inciso, para descargar dale donde dice code en el boton verde, luego hasta anajo en descargar zip
 
 - 8.11
 - 12.11
