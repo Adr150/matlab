@@ -1,4 +1,6 @@
-#Ejercicios Introduccion a la programacion
+# Ejercicios Introduccion a la programacion
+Cada ejercicio esta en su carpeta con una captura de su inciso, para descargar dale donde dice zip
+
 - 8.11
 - 12.11
 - 16.11
